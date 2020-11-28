@@ -1,0 +1,12 @@
+Atributos,,,,
+Body temperature,Gives Birth,Four Legged,Hibernates,mammal
+warm_blooded,yes,yes,yes,yes
+warm_blooded,yes,yes,no,yes
+warm_blooded,yes,no,yes,yes
+warm_blooded,yes,no,no,yes
+cold_blooded,no,yes,yes,no
+cold_blooded,no,yes,no,no
+cold_blooded,no,no,yes,no
+cold_blooded,no,no,no,no
+warm_blooded,no,no,no,no
+cold_blooded,yes,no,no,no
